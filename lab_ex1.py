@@ -1,6 +1,7 @@
 #-*- coding:utf8 -*-
 
 # ------------------------------------------------------------------------------------------------------
+#   Sekcja importu bibliotek:
 #
 #   Fragment do modyfikacji w ramach ćwiczenia znajduje się na dole, na koncu niniejszego pliku.
 
